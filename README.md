@@ -1,4 +1,4 @@
-# ProgramaciónC
+# Programación C
 ![Logo de C](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
 ## Descripción
 ## Este ejercicio es mi práctica final de C, el ejercicio consiste en crear tres procesos: 2 hijos y un padre. 

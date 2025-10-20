@@ -4,7 +4,7 @@
 ## Este ejercicio es mi práctica final de C, el ejercicio consiste en crear tres procesos: 2 hijos y un padre. 
 El proceso padre genera 5 expresiones aleatorias, se las envia al hijo1 para que las calcule, el padre recibe el resultado de la operación y se lo envia al hijo2 para que confirme si la operacion es correcta o no
 ---
-```c
+```C
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
